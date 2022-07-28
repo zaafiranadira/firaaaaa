@@ -1,0 +1,65 @@
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+</style>
+
+.logo {
+  width: 5px;
+  height: 5px;
+}
+
+img{
+  height: 200px;
+  width: auto;
+}
+
+h1 {
+  font-family: Montserrat;
+  color: orange;
+  text-align: right;
+
+}
+
+h2{
+  font-family: Montserrat;
+  color: orange;
+  
+
+  text-size: 2px
+}
+
+P {
+  font-family: Montserrat;
+  color: orange;
+  text-align: left;
+  font-style: italic;
+
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-evenly;  
+  height: 60px;
+  font-size: 20px;
+  background-color: rgb(226, 195, 137);
+  align-items: center;
+  font-family: Verdana;
+}
+
+.navbar a {
+  text-decoration: none;
+  color: white;
+}
+.navbar :hover {
+  text-decoration: none;
+  color: chocolate;
+}
+
+
+.footer {
+  background-color: beige;
+  height: 25px;
+}
+
+b{
+  color: orange;
+}
